@@ -1,0 +1,15 @@
+postman:
+    api_key: 
+    collections_output_file: 
+    target_collection: 
+    target_collection_output_file: 
+
+api_libary:
+    file_name: 
+    version: 
+    auth_headers: 
+        # Header : Common Name used as parameter name
+        X-CH-Auth-Email: 
+        X-CH-Auth-API-Token: 
+    enforced_header:
+        Content-Type: application/json
