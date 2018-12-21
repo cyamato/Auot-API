@@ -4,6 +4,7 @@ node/*.js
 python/*.py
 postman/*.json
 *.json
+conf.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
